@@ -20,13 +20,13 @@ Chaque partie suit la même démarche : étude théorique des concepts, impléme
 
 ```
 .
-├── Rapport_Deep-Learning_EMSI.pdf     # Rapport scientifique du projet (rédigé à partir des 3 notebooks)
+├── Rapport.pdf     # Rapport scientifique du projet (rédigé à partir des 3 notebooks)
 ├── partie1_mlp.ipynb                  # Partie I — MLP sur données tabulaires
 ├── partie2_CNN_CIFAR10.ipynb          # Partie II — CNN sur données images
 └── partie3_rnn_seq2seq.ipynb          # Partie III — RNN/LSTM/GRU et Seq2Seq sur données séquentielles
 ```
 
-### `Rapport_Deep-Learning_EMSI.pdf`
+### `Rapport.pdf`
 Rapport scientifique complet du projet, rédigé à partir du contenu et des résultats des trois notebooks ci-dessous : introduction, méthodologie, implémentation, résultats, interprétations, limites, conclusion et discussion scientifique transversale reliant les trois architectures.
 
 ### `partie1_mlp.ipynb` — MLP et ingénierie PyTorch
